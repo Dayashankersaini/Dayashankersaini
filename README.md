@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dayashankersaini
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me 
 
